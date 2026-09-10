@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banners/pixel-night-hero.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banners/pixel-night-hero-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banners/pixel-night-hero-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banners/pixel-night-hero-light.gif">
   <img src="./assets/banners/pixel-night-hero.png" alt="Pixel Night Banner" width="100%">
 </picture>
 
