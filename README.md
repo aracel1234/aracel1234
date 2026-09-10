@@ -47,7 +47,7 @@ I enjoy learning deeply, refining details, and finding creative ways to solve te
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider.png" alt="divider" width="72%">
+  <img src="./assets/dividers/star-divider-3.png" alt="divider" width="72%">
 </div>
 
 ## Current Focus
@@ -63,7 +63,7 @@ Right now, I’m focusing on:
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider.png" alt="divider" width="72%">
+  <img src="./assets/dividers/star-divider-2.png" alt="divider" width="72%">
 </div>
 
 ## Toolbox
@@ -116,14 +116,23 @@ A few words that describe me:
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider.png" alt="divider" width="72%">
+  <img src="./assets/dividers/star-divider-1.png" alt="divider" width="72%">
 </div>
 
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aracel1234&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aracel1234&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aracel1234&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Aracel's GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=aracel1234&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Aracel's Top Languages"
+  />
 </p>
 
 <p align="center">
