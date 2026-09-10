@@ -161,7 +161,7 @@ A few words that describe me:
 
 <div align="center">
   <br/>
-  <img src="./assets/footers/pixel-night-footer.png" alt="Pixel Night Footer" width="100%">
+  <img src="./assets/footers/footer.png" alt="Pixel Night Footer" width="100%">
   <br/><br/>
   <sub>Thanks for visiting my corner of GitHub ✨</sub>
 </div>
