@@ -120,9 +120,6 @@ A few words that describe me:
 </div>
 
 ## GitHub Snapshot
-
-## GitHub Snapshot
-
 <p align="center">
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="48%" alt="Aracel's GitHub Stats"><img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" alt="Aracel's Top Languages">
 </p>
@@ -136,10 +133,6 @@ A few words that describe me:
 </p>
 
 ---
-
-<div align="center">
-  <img src="./assets/dividers/star-divider-5.png" alt="divider">
-</div>
 
 ## Connect With Me
 
