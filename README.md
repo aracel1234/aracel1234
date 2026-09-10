@@ -96,7 +96,7 @@ Right now, I’m focusing on:
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider.png" alt="divider" width="72%">
+  <img src="./assets/dividers/star-divider-4.png" alt="divider" width="72%">
 </div>
 
 ## Night Notes
@@ -142,7 +142,7 @@ A few words that describe me:
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider.png" alt="divider" width="72%">
+  <img src="./assets/dividers/star-divider-5.png" alt="divider" width="72%">
 </div>
 
 ## Connect With Me
