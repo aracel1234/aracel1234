@@ -123,13 +123,13 @@ A few words that describe me:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=aracel1234&show_icons=true&theme=tokyonight&hide_border=true"
+    src="./profile-summary-card-output/tokyonight/3-stats.svg"
     height="170"
     alt="Aracel's GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aracel1234&layout=compact&theme=tokyonight&hide_border=true"
+    src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
     height="170"
     alt="Aracel's Top Languages"
   />
