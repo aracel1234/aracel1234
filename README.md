@@ -63,7 +63,7 @@ Right now, I’m focusing on:
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-2.png" alt="divider" width="72%">
+  <img src="./assets/dividers/star-divider-2.png" alt="divider">
 </div>
 
 ## Toolbox
@@ -96,7 +96,7 @@ Right now, I’m focusing on:
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-4.png" alt="divider" width="72%">
+  <img src="./assets/dividers/star-divider-4.png" alt="divider">
 </div>
 
 ## Night Notes
@@ -116,7 +116,7 @@ A few words that describe me:
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-1.png" alt="divider" width="72%">
+  <img src="./assets/dividers/star-divider-1.png" alt="divider">
 </div>
 
 ## GitHub Snapshot
@@ -142,7 +142,7 @@ A few words that describe me:
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-5.png" alt="divider" width="72%">
+  <img src="./assets/dividers/star-divider-5.png" alt="divider">
 </div>
 
 ## Connect With Me
@@ -165,9 +165,3 @@ A few words that describe me:
   <br/><br/>
   <sub>Thanks for visiting my corner of GitHub ✨</sub>
 </div>
-
-.cropped-divider {
-  height: 50px; /* Atur tinggi sesuai kebutuhan bagian tengah yang ingin ditampilkan */
-  object-fit: cover; /* Memastikan gambar mengisi area tanpa distorsi */
-  object-position: center; /* Memusatkan gambar, memotong bagian atas dan bawah secara otomatis */
-}
