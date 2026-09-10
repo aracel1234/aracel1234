@@ -47,7 +47,7 @@ I enjoy learning deeply, refining details, and finding creative ways to solve te
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-1.png" alt="divider" class="cropped-divider">
+  <img src="./assets/dividers/star-divider-1.png" alt="divider">
 </div>
 
 ## Current Focus
@@ -128,7 +128,12 @@ A few words that describe me:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aracel1234&theme=tokyonight&hide_border=true" width="55%" alt="Aracel's GitHub Streak">
 </p>
+
 ---
+
+<div align="center">
+  <img src="./assets/dividers/star-divider-5.png" alt="divider">
+</div>
 
 ## Connect With Me
 
