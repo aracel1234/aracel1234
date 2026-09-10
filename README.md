@@ -47,7 +47,7 @@ I enjoy learning deeply, refining details, and finding creative ways to solve te
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-2.png" alt="divider" class="cropped-divider">
+  <img src="./assets/dividers/star-divider-1.png" alt="divider" class="cropped-divider">
 </div>
 
 ## Current Focus
@@ -96,7 +96,7 @@ Right now, I’m focusing on:
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-4.png" alt="divider">
+  <img src="./assets/dividers/star-divider-3.png" alt="divider">
 </div>
 
 ## Night Notes
@@ -116,7 +116,7 @@ A few words that describe me:
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-1.png" alt="divider">
+  <img src="./assets/dividers/star-divider-4.png" alt="divider">
 </div>
 
 ## GitHub Snapshot
