@@ -28,7 +28,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider.png" alt="divider" width="72%">
+  <img src="./assets/dividers/star-divider.png" alt="divider">
 </div>
 
 ## About Me
@@ -47,7 +47,7 @@ I enjoy learning deeply, refining details, and finding creative ways to solve te
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-3.png" alt="divider" width="72%">
+  <img src="./assets/dividers/star-divider-3.png" alt="divider" height="72%">
 </div>
 
 ## Current Focus
