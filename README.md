@@ -47,7 +47,7 @@ I enjoy learning deeply, refining details, and finding creative ways to solve te
 ---
 
 <div align="center">
-  <img src="./assets/dividers/star-divider-3.png" alt="divider" height="72%">
+  <img src="./assets/dividers/star-divider-2.png" alt="divider" class="cropped-divider">
 </div>
 
 ## Current Focus
@@ -165,3 +165,9 @@ A few words that describe me:
   <br/><br/>
   <sub>Thanks for visiting my corner of GitHub ✨</sub>
 </div>
+
+.cropped-divider {
+  height: 50px; /* Atur tinggi sesuai kebutuhan bagian tengah yang ingin ditampilkan */
+  object-fit: cover; /* Memastikan gambar mengisi area tanpa distorsi */
+  object-position: center; /* Memusatkan gambar, memotong bagian atas dan bawah secara otomatis */
+}
