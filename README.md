@@ -120,6 +120,7 @@ A few words that describe me:
 </div>
 
 ## GitHub Snapshot
+
 <p align="center">
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="48%" alt="Aracel's GitHub Stats"><img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" alt="Aracel's Top Languages">
 </p>
@@ -127,11 +128,6 @@ A few words that describe me:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aracel1234&theme=tokyonight&hide_border=true" width="55%" alt="Aracel's GitHub Streak">
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aracel1234&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
 ---
 
 ## Connect With Me
